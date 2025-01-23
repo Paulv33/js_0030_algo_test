@@ -10,6 +10,7 @@ const {
     combinacionesDeTresNumeros,
     combinacionesDeCuatroNumeros,
     esPrimo,
+    factorial
 
 
 } = require('./app');
